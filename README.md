@@ -1,1 +1,1 @@
-# Free-Software-Camp
+Data related to FSCI is in wiki.
